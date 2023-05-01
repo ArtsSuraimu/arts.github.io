@@ -28,9 +28,11 @@ logo: /img/logo.png
 # Build settings
 markdown: kramdown
 #theme: minimal
-theme: pages-themes/minimal@v0.2.0
+theme: minimal
 
 plugins:
+  - github-pages
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-remote-theme
 # Exclude from processing.
