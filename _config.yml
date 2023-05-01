@@ -28,7 +28,7 @@ logo: /img/logo.png
 # Build settings
 markdown: kramdown
 #theme: minimal
-theme: minimal
+remote_theme: minimal
 
 plugins:
   - github-pages
