@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Welcome to Arts' Home.
+
+This page is under construction and will be online soon. 
+
+To remember Arts Epiphany, please visite [One Among Us](https://one-among.us/profile/ArtsEpiphany). 
