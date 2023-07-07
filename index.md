@@ -6,12 +6,6 @@ layout: home
 ---
 
 
-This is Arts Suraimu, currently working as product architect at NVIDIA. 
-
-I use to lead the solution architecture for DGX and Cloud at Europe, Middle East and Africa (EMEA). 
-
-To contact me, please use 1 (at) arts (dot) moe. 
-
 ![Logo](logo.png)
 
 # Who are you? 
@@ -49,11 +43,16 @@ I operate a gallery about my original character design - it's here:
 [**Arts Suraimu's Gallery**](https://suraimu.moe)
 
 
-# Teaching
+# Profession
+
+This is Arts Suraimu, currently working as product architect at NVIDIA. 
+
+I use to lead the solution architecture for DGX and Cloud at Europe, Middle East and Africa (EMEA). 
 
 I am also guest lecturer at [Technical University of Munich](www.tum.de), School of Computation, Information and Technology. I frequently teach about computer architecture, GPU programming, parallel programming and related topics at difference lecture and practical courses at TUM. 
 
 Stay tuned for upcoming lecture notes and time.
+
 
 # Education
 
