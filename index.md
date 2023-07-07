@@ -11,7 +11,7 @@ layout: home
 # Who are you? 
 
 I'm just another person on this world, living on the edge of everything and hope to create more hope in this world full of darkness. 
-My live have been full of events and moments that I want to remember forever, but I decided to not live in the past. 
+My life have been full of events and moments that I want to remember forever, but I decided to not live in the past. 
 
 ## What is Suraimu?
 
