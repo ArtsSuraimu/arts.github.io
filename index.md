@@ -24,6 +24,10 @@ Here are quick links:
 
 [**Youtube**](https://www.youtube.com/channel/UCPm1Ne69YvpcS4P6r-DEQ-A)
 
+I operate a gallery about my original character design - it's here:
+
+[**Arts Suraimu's Gallery**](https://suraimu.moe)
+
 
 # Teaching
 
