@@ -81,6 +81,14 @@ Please refer to my [Linktree](https://linktr.ee/artssuraimu) for more informatio
 
 I love to send postcards! I operate on [Postcrossing](https://www.postcrossing.com/user/rimurosuraimu) - check out for some more information. 
 
+# Allies
+
+Everyone needs allies. If you want to become an ally please contact me. 
+
+[DVD](dvd.moe)
+[Yukia](yukiha.live)
+
+
 
 
 
