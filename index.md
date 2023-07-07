@@ -85,8 +85,8 @@ I love to send postcards! I operate on [Postcrossing](https://www.postcrossing.c
 
 Everyone needs allies. If you want to become an ally please contact me. 
 
-- [DVD](dvd.moe)
-- [Yukia](yukiha.live)
+- [DVD](https://dvd.moe)
+- [Yukia](https://yukiha.live)
 
 
 
