@@ -12,6 +12,26 @@ I use to lead the solution architecture for DGX and Cloud at Europe, Middle East
 
 To contact me, please use 1 (at) arts (dot) moe. 
 
+![Logo](logo.png)
+
+# Who are you? 
+
+I'm just another person on this world, living on the edge of everything and hope to create more hope in this world full of darkness. 
+My live have been full of events and moments that I want to remember forever, but I decided to not live in the past. 
+
+## What is Suraimu?
+
+Suraimu (スライム) is a japanese fantasy magical creature made out of a permeable membrane, and filled with magical matter called magicules. 
+In some of the mythos (such as Tensura) the Suraimu art are unique and seem to be adaptable to all environmental changes, gaining great possiblity to live under any condition. 
+
+My character design is a light-class Suraimu which choose to burn the inner matter (magicules) to proivide shine in the darkness of the earth forest. 
+
+## Who is Arts?
+
+Arts is a joined name of myself and Arts Epiphany, a brilliant girl who decided to end her life in exchange of raining visibility of the conditions of the transgender community. 
+
+Arts E and myself shares this name as part of our joint wish. 
+
 # Links
 
 In my free time, I like to enjoy streaming about my life at Bilibili and/or youtube/twitch. 
