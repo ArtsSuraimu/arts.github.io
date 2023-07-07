@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Welcome to Arts' Home.
 
 This is Arts Suraimu, currently working as product architect at NVIDIA. 
 
