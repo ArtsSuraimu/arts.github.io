@@ -53,7 +53,6 @@ I am also guest lecturer at [Technical University of Munich](www.tum.de), School
 
 Stay tuned for upcoming lecture notes and time.
 
-
 # Education
 
 I hold a PhD degree in Informatics from Technical University of Munich. 
@@ -61,6 +60,20 @@ I hold a PhD degree in Informatics from Technical University of Munich.
 I speak 4 languages, out of which 3 are professional: Chinese Mandarin, German, English. I also understand and speak a little bit of Japanese. 
 
 I don't program much any more being an architect. I use to program in C/C++. 
+
+# Charity
+
+I donate to many charity organizations and support people who needs help. 
+
+I am a proud member of German Society of Transidentity and Intersexuality (Deutsche Gesellschaft für Transidentität und Intersexualität e.V. ).
+
+Some donation until  went to:
+
+- [German Society of Transidentity and Intersexuality (dgti e.V.)](https://dgti.org)
+- [Bavarian Red Cross](https://brk.de)
+- [Arbeiter-Samariter-Bund](https://asb.de)
+
+I donate blood regularly, with more than 7 liters until today. 
 
 # Getting Contacted
 
