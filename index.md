@@ -108,6 +108,8 @@ Some donation until  went to:
 - [Bavarian Red Cross](https://brk.de)
 - [Arbeiter-Samariter-Bund](https://asb.de)
 
+If you are studying at TU Munich, make sure you will check out the [Deutschlandstipendium Program](https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/deutschlandstipendium). It's a national scholarship program that I donate yearly to to support socially responsible and academically excellent student with some money. You might be matched to meet me in real life if you are selected. 
+
 I donate blood regularly, with more than 7 liters until today. 
 
 # Getting Contacted
