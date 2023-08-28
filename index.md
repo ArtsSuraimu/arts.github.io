@@ -13,18 +13,6 @@ layout: home
 I'm just another person on this world, living on the edge of everything and hope to create more hope in this world full of darkness. 
 My life have been full of events and moments that I want to remember forever, but I decided to not live in the past. 
 
-## What is Suraimu?
-
-Suraimu (スライム) is a japanese fantasy magical creature made out of a permeable membrane, and filled with magical matter called magicules. 
-In some of the mythos (such as Tensura) the Suraimu art are unique and seem to be adaptable to all environmental changes, gaining great possiblity to live under any condition. 
-
-My character design is a light-class Suraimu which choose to burn the inner matter (magicules) to proivide shine in the darkness of the earth forest. 
-
-## Who is Arts?
-
-Arts is a joined name of myself and Arts Epiphany, a brilliant girl who decided to end her life in exchange of raining visibility of the conditions of the transgender community. 
-
-Arts E and myself shares this name as part of our joint wish. 
 
 # Links
 
@@ -45,9 +33,11 @@ I operate a gallery about my original character design - it's here:
 
 # Profession
 
-I am a senior solutions architect for DGX, datacenter, and cloud. 
+I am a global product architect for DGX SuperPOD, BasePOD, and Regional Cloud Service Providers. 
+I am responsible technically for NVIDIA's Reference Architecture (RA) and it's applications globally. I'm also supporting CSP architecture design for NVIDIA products. 
 
-I lead technically the solution architecture for DGX Cloud in Europe, Middle East and Africa, at NVIDIA Corp. 
+Previously, I was a senior solutions architect for DGX, datacenter, and cloud in EMEA. 
+I used to lead technically the solution architecture for DGX Cloud in Europe, Middle East and Africa, at NVIDIA Corp. 
 I am the responsible solution architect for [NVIDIA Cambridge-1](https://www.top500.org/system/179960/) previously. 
 
 ## Responsible Projects
@@ -127,7 +117,18 @@ Everyone needs allies. If you want to become an ally please contact me.
 - [Souiken](https://blog.raineast.icu/)
 - [叶子的花园](https://mskclover.com)
 
+## What is Suraimu?
 
+Suraimu (スライム) is a japanese fantasy magical creature made out of a permeable membrane, and filled with magical matter called magicules. 
+In some of the mythos (such as Tensura) the Suraimu art are unique and seem to be adaptable to all environmental changes, gaining great possiblity to live under any condition. 
+
+My character design is a light-class Suraimu which choose to burn the inner matter (magicules) to proivide shine in the darkness of the earth forest. 
+
+## Who is Arts?
+
+Arts is a joined name of myself and Arts Epiphany, a brilliant girl who decided to end her life in exchange of raining visibility of the conditions of the transgender community. 
+
+Arts E and myself shares this name as part of our joint wish. 
 
 
 
