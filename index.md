@@ -33,7 +33,7 @@ I operate a gallery about my original character design - it's here:
 
 # Profession
 
-I am a global product architect for DGX SuperPOD, BasePOD, and Regional Cloud Service Providers. 
+I am a global product architect for DGX SuperPOD, BasePOD, and Regional Cloud Service Providers, at NVIDIA Corp.
 I am responsible technically for NVIDIA's Reference Architecture (RA) and it's applications globally. I'm also supporting CSP architecture design for NVIDIA products. 
 
 Previously, I was a senior solutions architect for DGX, datacenter, and cloud in EMEA. 
@@ -135,4 +135,4 @@ Arts E and myself shares this name as part of our joint wish.
 
 
 
-To remember Arts Epiphany, please visite [One Among Us](https://one-among.us/profile/ArtsEpiphany). 
+To remember Arts Epiphany, please visit [One Among Us](https://one-among.us/profile/ArtsEpiphany). 
